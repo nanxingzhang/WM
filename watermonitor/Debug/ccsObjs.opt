@@ -1,0 +1,1 @@
+"./main.obj" "./src/ADC12_INIT.obj" "./src/ADS1118.obj" "./src/BLUETOOTH.obj" "./src/DAC8571.obj" "./src/DS18B20.obj" "./src/KEY_SIG.obj" "./src/LCD12864.obj" "./src/LCD1602.obj" "./src/PH-T.obj" "./src/UART.obj" "./src/UCS_INIT.obj" "./src/testUART.obj" "../lnk_msp430f5529.cmd" -llibmath.a -llibc.a 
